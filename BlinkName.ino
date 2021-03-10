@@ -1,3 +1,5 @@
+#include <string>
+
 int led = D7;
 
 void setup() {
