@@ -1,6 +1,7 @@
 #include <string>
 
 int led = D7;
+String name = "BEN";
 
 void setup() {
 
